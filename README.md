@@ -1,2 +1,2 @@
-# agent-script1
+# agent-script
 Scripts for the agents.
